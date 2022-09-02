@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 <div align="center"> <img src="https://metrics.lecoq.io/CacheBreakdown?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
 
-**Skills**
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
